@@ -41,6 +41,6 @@ return true;
 
 ## Languages
 
-- Uzbek - Native
 - English - IELTS 6.0 (B2, 2019)
 - Russian - Medium
+- Uzbek - Native
