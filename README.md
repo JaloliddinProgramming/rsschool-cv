@@ -1,3 +1,3 @@
-## Jaloliddin
+## rsschool-cv
 
-### code example
+## https://JaloliddinProgramming.github.io/rsschool-cv/cv
