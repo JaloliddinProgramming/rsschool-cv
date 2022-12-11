@@ -42,5 +42,5 @@ return true;
 ## Languages
 
 - English - IELTS 6.0 (B2, 2019)
-- Russian - Medium
+- Russian - Intermediate
 - Uzbek - Native
