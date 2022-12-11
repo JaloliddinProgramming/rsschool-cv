@@ -36,7 +36,7 @@ function isPrime(number) {
 
 ## Education
 
-- Tashkent Information Technology University, 4th grade student in _Software Engineering_ faculty (2019-2023)
+- Tashkent Information Technology University, 4th grade student in **_Software Engineering_** faculty (2019-2023)
 - w3schools
 - [JAVASCTIPT.INFO](https://javascript.info/). (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
