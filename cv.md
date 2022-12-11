@@ -4,7 +4,7 @@
 
 ## My contact info
 
-- **Phone:** +998 (94) 641 66 74
+- **Phone:** +998 (94) 641-66-74
 - **E-mail:** jaloliddinsuyunkulov@mail.com
 - **GitHub:** JaloliddinProgramming
 - **Telegram** @Football_Club_Barcelona1
