@@ -19,7 +19,7 @@ I am 21 years old. My interest in programming is very sharp, especially Front-en
 - CSS (Bootstrap, SASS/SCSS)
 - Git/GitHub
 - JavaScript (Basics, OOP)
-- React JS (Basics, Redux)
+- React JS (Basics, Redux, ReactDOM)
 - **Editors:** Intellij Idea, _VS Code_, Sublime
 
 ## Code Examples
