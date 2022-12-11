@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am 21 years old. My interest in programming is very sharp, especially Front-end development. My intention is to learn appropriate/easy way of development skills from _RS SCHOOL_ and become of the successors of this field.
+I am 21 years old. My interest in programming is very sharp, especially Front-end development. My intention is to learn appropriate/easy way of development skills from _RS SCHOOL_ and become one of the successors of this field.
 
 ## Skills
 
