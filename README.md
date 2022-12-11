@@ -1,5 +1,1 @@
-## Jaloliddin
-
-### code example
-
-### Starting off
+https://JaloliddinProgramming.github.io/rsschool-cv/cv
