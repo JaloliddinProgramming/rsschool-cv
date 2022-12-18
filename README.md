@@ -1,2 +1,2 @@
-### MarkdownCV: https://GITHUB-USERNAME.github.io/rsschool-cv/cv
-### CV: https://GITHUB-USERNAME.github.io/rsschool-cv/
+### MarkdownCV: https://JaloliddinProgramming.github.io/rsschool-cv/cv
+### CV: https://JaloliddinProgramming.github.io/rsschool-cv/
